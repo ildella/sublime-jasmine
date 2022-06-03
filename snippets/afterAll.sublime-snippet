@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+afterAll(() => {
+	$1
+})]]>
+	</content>
+	<tabTrigger><![CDATA[aa]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>afterAll</description>
+</snippet>

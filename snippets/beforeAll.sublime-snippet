@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+beforeAll(() => {
+	$1
+})]]>
+	</content>
+	<tabTrigger><![CDATA[ba]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>beforeAll</description>
+</snippet>
