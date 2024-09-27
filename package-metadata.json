@@ -1,0 +1,8 @@
+{
+  "url": "https://github.com/nicosantangelo/sublime-jasmine",
+  "platforms": ["*"],
+  "sublime_text": "*",
+  "version": "4.5.0",
+  "description": "Jasmine syntax, snippets and commands",
+  "dependencies": []
+}
