@@ -1,5 +1,12 @@
 # Jasmine
 
+This is a Fork of the original [Sublime Jasmine JS plugin](https://github.com/nicosantangelo/sublime-jasmine)
+
+I am upgrading it to some latest evolution of testing frameworks for Javascript and cleanup stuff I do not consider useful, like double-quoted strings snippets. 
+The README that follows is the original one, last updated in early 2017.
+
+## Description
+
 Sublime Text package that includes syntax highlighting, snippets and commands for [Jasmine](http://jasmine.github.io) the Javascript BDD framework.
 
 This package is a merge between [Jasmine BDD](https://github.com/caiogondim/jasmine-sublime-snippets) from [@caiogondim](https://github.com/caiogondim) and [Jasmine](https://github.com/gja/sublime-text-2-jasmine) from [@gja](https://github.com/gja).
@@ -105,7 +112,7 @@ For example, it will transform this:
 ````
 describe("Name of the group", function() {
     
-});
+})
 ````
 
 to this
@@ -113,7 +120,7 @@ to this
 ````
 describe('Name of the group', function() {
     
-});
+})
 ````
 
 If you want to setup a keybinding for it, you can use:
