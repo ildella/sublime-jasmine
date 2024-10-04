@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[expect($1).toHaveProperty(${2:params})$0]]>
+	</content>
+	<tabTrigger><![CDATA[thp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>toHaveProperty</description>
+</snippet>

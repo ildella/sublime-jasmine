@@ -40,6 +40,8 @@ Below is a list of all snippets currently supported on this package and the trig
 - `expect().toEqual`: te⇥
 - `expect().toHaveBeenCalled`: thbc⇥
 - `expect().toHaveBeenCalledWith`: thbcw⇥
+- `expect().toHaveLength`: thl⇥
+- `expect().toHaveProperty`: thp⇥
 - `expect().toMatch`: tm⇥
 - `expect().toThrow`: tt⇥
 - `expect().toThrowError`: tte⇥
